@@ -12,7 +12,8 @@ Task: compute area under curve from $x=0$ to $x=\pi$.
 - Antiderivative of $\sin x$ is $-\cos x$.
 
 ### 2) Compute integral
-$$A=\int_{0}^{\pi} \sin x\,dx = [-\cos x]_{0}^{\pi}$$
+$$A=\int_{0}^{\pi} \sin x\,dx = [-\cos x]_{0}^{\pi}$$ 
+$$F(b) - F(a)$$
 
 Evaluate boundaries:
 - For $x=\pi$: $-\cos\pi = -(-1)=+1$.
@@ -25,3 +26,4 @@ $$A = 1 - (-1) = 2$$
 
 ### 3) Final answer
 - Area under the curve is $2$.
+
